@@ -1,0 +1,43 @@
+{
+  "jobs": [
+    {
+      "title": "Data Analyst",
+      "requiredSkills": ["SQL", "Python", "Tableau", "Power BI", "Excel"],
+      "courses": [
+        { "title": "Data Analytics", "link": "https://coursevita.com/courses/dataAnalytics" },
+        { "title": "Data Visualization", "link": "https://coursevita.com/courses/dataVisualization" }
+      ]
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "requiredSkills": ["Python", "TensorFlow", "Scikit-learn", "Keras", "Deep Learning"],
+      "courses": [
+        { "title": "AI, ML Mastery", "link": "https://coursevita.com/courses/AIML" },
+        { "title": "Data Science", "link": "https://coursevita.com/courses/dataScience" }
+      ]
+    },
+    {
+      "title": "Full Stack Developer",
+      "requiredSkills": ["HTML", "CSS", "JavaScript", "React", "Node.js"],
+      "courses": [
+        { "title": "Full Stack Development", "link": "https://coursevita.com/courses/fullStackDevelopment" }
+      ]
+    },
+    {
+      "title": "DevOps Engineer",
+      "requiredSkills": ["AWS", "Docker", "Kubernetes", "CI/CD", "Jenkins"],
+      "courses": [
+        { "title": "DevOps with AWS", "link": "https://coursevita.com/courses/devopsWithAWS" },
+        { "title": "DevOps with Azure", "link": "https://coursevita.com/courses/devopsWithAzure" }
+      ]
+    },
+    {
+      "title": "Digital Marketing Specialist",
+      "requiredSkills": ["SEO", "Google Ads", "Facebook Ads", "Analytics", "Content Marketing"],
+      "courses": [
+        { "title": "Digital Marketing", "link": "https://coursevita.com/courses/DigitalMarketingwithAI" },
+        { "title": "Performance Marketing", "link": "https://coursevita.com/courses/performanceMarketingTraining" }
+      ]
+    }
+  ]
+}
